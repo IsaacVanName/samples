@@ -8,3 +8,5 @@ The solution uses Webpack and NPM, so running the application should be as simpl
 
 1. `npm install`
 2. `npm run run` (runs webpack build and the hapi server process)
+
+From there, you should be able to navigate to `http://localhost:8000` in a web browser to see the application. Entering a URL in the text box and clicking the button should show links. It's not required to include the 'http://' at the front. I tested with myemma.com. :-)
