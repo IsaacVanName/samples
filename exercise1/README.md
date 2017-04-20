@@ -6,4 +6,4 @@ This corresponds to challenge A (**"Write a function in Python, JavaScript, or S
 
 The check_urls.py file contains both the function to check a list of URLs and a line at the bottom that tests the function with correct and incorrect URLs.
 
-To run, just run `python check_urls.py`. If you have multiple Python versions, you might need to run `python3` instead of `python`.
+To run, just run `python check_urls.py` from within the `exercise1` directory. If you have multiple Python versions, you might need to run `python3` instead of `python`.
